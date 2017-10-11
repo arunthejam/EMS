@@ -19,7 +19,14 @@
   #"SYSTEM_SYSRULES_queryEntity"(
     entity: #"_a-0001dda0-2f73-8000-aae2-01ef9001ef90_16258",
     query: #"SYSTEM_SYSRULES_query"(
-      pagingInfo: #"SYSTEM_SYSRULES_pagingInfo"(1, -1, #"SYSTEM_SYSRULES_sortInfo"("order", true))
+      pagingInfo: #"SYSTEM_SYSRULES_pagingInfo"(
+        1,
+        - 1,
+        #"SYSTEM_SYSRULES_sortInfo"(
+          "order",
+          true
+        )
+      )
     )
   ).data
 )</definition>
