@@ -215,10 +215,10 @@
             <a:visibilityExpr>=true()</a:visibilityExpr>
             <a:urlStub>summary</a:urlStub>
             <a:headerExpr></a:headerExpr>
-            <a:relatedActionCfg>8edf1fb4-6c31-423d-bf3a-8d1f1fa0bfda</a:relatedActionCfg>
-            <a:relatedActionCfg>9de3325c-3624-418c-9f81-e9251df71490</a:relatedActionCfg>
-            <a:relatedActionCfg>9289c6bb-aca8-43ae-98bd-d792c429583a</a:relatedActionCfg>
-            <a:relatedActionCfg>d8ba6910-5977-4ff8-b06e-114c3d9c0f53</a:relatedActionCfg>
+            <a:relatedActionCfg>98f23759-fe34-428c-8628-619172fb035e</a:relatedActionCfg>
+            <a:relatedActionCfg>3f9592a3-da63-4c8d-8c3f-5f3b2a0ae60f</a:relatedActionCfg>
+            <a:relatedActionCfg>71280646-8307-4d48-b1db-00f25d928da4</a:relatedActionCfg>
+            <a:relatedActionCfg>225c3128-9a75-4dcc-b272-6f1c6af31d9b</a:relatedActionCfg>
         </a:detailViewCfg>
         <a:detailViewCfg>
             <a:nameExpr>"Activity History"</a:nameExpr>
@@ -226,9 +226,9 @@
             <a:visibilityExpr>=true()</a:visibilityExpr>
             <a:urlStub>_WnXJTw</a:urlStub>
             <a:headerExpr></a:headerExpr>
-            <a:relatedActionCfg>8edf1fb4-6c31-423d-bf3a-8d1f1fa0bfda</a:relatedActionCfg>
-            <a:relatedActionCfg>9de3325c-3624-418c-9f81-e9251df71490</a:relatedActionCfg>
-            <a:relatedActionCfg>9289c6bb-aca8-43ae-98bd-d792c429583a</a:relatedActionCfg>
+            <a:relatedActionCfg>98f23759-fe34-428c-8628-619172fb035e</a:relatedActionCfg>
+            <a:relatedActionCfg>3f9592a3-da63-4c8d-8c3f-5f3b2a0ae60f</a:relatedActionCfg>
+            <a:relatedActionCfg>71280646-8307-4d48-b1db-00f25d928da4</a:relatedActionCfg>
         </a:detailViewCfg>
         <a:relatedActionCfg>
             <a:target xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="a:ProcessModel" a:uuid="46ef3b4d-2d90-42f4-8092-bf3ed6e6b979"/>
@@ -241,7 +241,7 @@
 )</a:contextExpr>
             <a:visibilityExpr>=true()</a:visibilityExpr>
             <a:iconId>f0e7</a:iconId>
-            <a:refId>8edf1fb4-6c31-423d-bf3a-8d1f1fa0bfda</a:refId>
+            <a:refId>98f23759-fe34-428c-8628-619172fb035e</a:refId>
         </a:relatedActionCfg>
         <a:relatedActionCfg>
             <a:target xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="a:ProcessModel" a:uuid="c3295274-596d-403c-a4cc-195b69cb1fd2"/>
@@ -250,7 +250,7 @@
 }</a:contextExpr>
             <a:visibilityExpr>=true()</a:visibilityExpr>
             <a:iconId>f0e7</a:iconId>
-            <a:refId>9de3325c-3624-418c-9f81-e9251df71490</a:refId>
+            <a:refId>3f9592a3-da63-4c8d-8c3f-5f3b2a0ae60f</a:refId>
         </a:relatedActionCfg>
         <a:relatedActionCfg>
             <a:target xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="a:ProcessModel" a:uuid="36b60c40-5a63-4d61-95eb-6a6d7e2906e4"/>
@@ -259,7 +259,7 @@
 }</a:contextExpr>
             <a:visibilityExpr>=true()</a:visibilityExpr>
             <a:iconId>f0e7</a:iconId>
-            <a:refId>9289c6bb-aca8-43ae-98bd-d792c429583a</a:refId>
+            <a:refId>71280646-8307-4d48-b1db-00f25d928da4</a:refId>
         </a:relatedActionCfg>
         <a:relatedActionCfg>
             <a:target xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="a:ProcessModel" a:uuid="e4fdb5a4-a34d-4066-87f0-df8a05c4093d"/>
@@ -268,7 +268,7 @@
 }</a:contextExpr>
             <a:visibilityExpr>=true()</a:visibilityExpr>
             <a:iconId>f0e7</a:iconId>
-            <a:refId>d8ba6910-5977-4ff8-b06e-114c3d9c0f53</a:refId>
+            <a:refId>225c3128-9a75-4dcc-b272-6f1c6af31d9b</a:refId>
         </a:relatedActionCfg>
         <a:isSystem>false</a:isSystem>
         <a:dataSrcExpr></a:dataSrcExpr>
