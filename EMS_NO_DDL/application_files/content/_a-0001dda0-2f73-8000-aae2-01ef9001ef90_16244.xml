@@ -308,7 +308,6 @@
                     <a:id/>
                 </a:ruleInputTestConfigs>
                 <a:ruleInputTestConfigs>
-                    <a:value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
                     <a:nameRef>documents</a:nameRef>
                     <a:id/>
                 </a:ruleInputTestConfigs>
@@ -318,7 +317,6 @@
                     <a:id/>
                 </a:ruleInputTestConfigs>
                 <a:ruleInputTestConfigs>
-                    <a:value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
                     <a:nameRef>deletedDocuments</a:nameRef>
                     <a:id/>
                 </a:ruleInputTestConfigs>
