@@ -313,6 +313,7 @@
                 <users/>
                 <groups>
                     <groupUuid>SYSTEM_GROUP_ROLE_QUICK_APP_CREATORS</groupUuid>
+                    <groupUuid>_e-0000dd73-d993-8000-9ccd-011e94011e94_472</groupUuid>
                 </groups>
             </role>
             <role allowForAll="false" inherit="false" name="denyReaders">
@@ -329,4 +330,4 @@
             </role>
         </contentRoleMap>
     </roleMap>
-</applicationHaul><!--updated on 2018-06-20T19:01:53.500-->
+</applicationHaul><!--updated on 2018-06-20T19:07:46.082-->
