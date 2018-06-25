@@ -1,0 +1,7 @@
+CREATE TABLE Test2406(
+id INT(6)  PRIMARY KEY,
+firstname VARCHAR(30) NOT NULL,
+lastname VARCHAR(30) NOT NULL,
+email VARCHAR(50)
+
+)
