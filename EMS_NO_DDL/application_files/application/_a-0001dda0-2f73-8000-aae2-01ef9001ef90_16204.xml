@@ -101,7 +101,6 @@
                         <uuid>_a-0001dda0-2f73-8000-aae2-01ef9001ef90_16207</uuid>
                         <uuid>_a-0001dda0-2f73-8000-aae2-01ef9001ef90_16208</uuid>
                         <uuid>_a-0001dda0-2f73-8000-aae2-01ef9001ef90_16209</uuid>
-                        <uuid>d7d53e0e-3bcf-46ce-89df-e7fbe661cc63_MAKEACTIVITYCDT</uuid>
                         <uuid>3b3eec55-9f1f-4065-88f7-03347db922b9_TASKFORM</uuid>
                         <uuid>_a-0001dda0-2f73-8000-aae2-01ef9001ef90_16252</uuid>
                         <uuid>6525c286-6423-4000-8fec-f92b39618211</uuid>
@@ -120,6 +119,7 @@
                         <uuid>_a-0001dda0-2f73-8000-aae2-01ef9001ef90_16213</uuid>
                         <uuid>_a-0001dda0-2f73-8000-aae2-01ef9001ef90_16324</uuid>
                         <uuid>SYSTEM_RULE_FOLDER_QUICK_APPS</uuid>
+                        <uuid>_a-0000e0d5-a2cb-8000-aae2-01ef9001ef90_55686</uuid>
                     </uuids>
                 </item>
                 <item>
@@ -330,4 +330,4 @@
             </role>
         </contentRoleMap>
     </roleMap>
-</applicationHaul><!--updated on 2018-06-25T16:21:58.267-->
+</applicationHaul><!--updated on 2018-06-26T11:12:02.117-->
